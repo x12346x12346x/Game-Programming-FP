@@ -1,7 +1,7 @@
 # Game-Programming-FP
 Final Project of Introduction to Game Programming
 # How to play
-you need to use your mouse to press the button to control your character
+you need to use your mouse to press the button to control your character\n
 1.press "移動"
 2.press the place you want your character move to
 3.wait character move and buff effect
